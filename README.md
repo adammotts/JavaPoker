@@ -1,2 +1,2 @@
 # JavaPoker
- Java code for a game of Texas Hold 'Em poker
+ Old Java code for a game of Texas Hold 'Em poker. Currently only playable in the terminal. GUI coming soon...
